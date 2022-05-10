@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/lazy-loading-sample/.vscode
+/lazy-loading-sample/package-lock.json
